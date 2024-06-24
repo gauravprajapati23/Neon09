@@ -7,19 +7,12 @@ Recreated on the basis of existing information over web.
 
 Thanks goes to these wonderful people:
 
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/samarthpharate"><img src="https://avatars.githubusercontent.com/samarthpharate?v=4" width="100px;" alt=""/><br /><sub><b>Samarth Pharate</b></sub></a><br /><a href="#code-samarthpharate" title="Code">💻</a></td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/pradnyatavandkar25"><img src="https://avatars.githubusercontent.com/pradnyatavandkar25?v=4" width="100px;" alt=""/><br /><sub><b>Pradnya Tavandkar</b></sub></a><br /><a href="#code-pradnyatavandkar25" title="Code">💻</a></td>
-  </tr>
-</table>
-<!-- markdownlint-enable -->
-<!-- prettier-ignore-end -->
-<!-- ALL-CONTRIBUTORS-LIST:END -->
+<p align="center">
+  <a href="https://github.com/samarthpharate">
+    <img src="https://avatars.githubusercontent.com/samarthpharate" width="100px;" style="border-radius:50%;" alt="Samarth Pharate"/>
+  </a>
+  <a href="https://github.com/pradnyatavandkar25">
+    <img src="https://avatars.githubusercontent.com/pradnyatavandkar25" width="100px;" style="border-radius:50%;" alt="pradnyatavandkar25"/>
+  </a>
+  <!-- Add more contributors in the same way -->
+</p>
