@@ -1,4 +1,4 @@
-# Neon-AI
+# Neon-AI 🤖
 <br>
 AI assistants on Android devices are designed to help users perform various tasks using natural language processing and artificial intelligence algorithms.
 Recreated on the basis of existing information over web.
@@ -12,7 +12,7 @@ Thanks goes to these wonderful people:
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/samarthpharate"><img src="https://avatars.githubusercontent.com/samarthpharate?v=4" width="100px;" alt=""/><br /><sub><b>Samarth Pharate</b></sub></a><br /><a href="#code-samarthpharate" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/samarthpharate"><img src="https://avatars.githubusercontent.com/samarthpharate?v=4" width="100px;" alt="" style="border-radius: 5px;"/><br /><sub><b>Samarth Pharate</b></sub></a><br /><a href="#code-samarthpharate" title="Code">💻</a></td>
   </tr>
 </table>
 <!-- markdownlint-enable -->
