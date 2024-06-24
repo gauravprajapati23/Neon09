@@ -7,7 +7,7 @@ Recreated on the basis of existing information over web.
 
 <p>
   <a href="https://github.com/samarthpharate">
-    <img src="https://avatars.githubusercontent.com/samarthpharate" width="50px;" style="border-radius:50%;" alt="Samarth Pharate"/>
+    <img src="https://avatars.githubusercontent.com/samarthpharate" width="50px;" style="border-radius: 10px;" alt="Samarth Pharate"/>
   </a>
   <a href="https://github.com/pradnyatavandkar25">
     <img src="https://avatars.githubusercontent.com/pradnyatavandkar25" width="50px;" style="border-radius:50%;" alt="pradnyatavandkar25"/>
