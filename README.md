@@ -6,11 +6,11 @@ Recreated on the basis of existing information over web.
 ## Contributors ✨
 
 <p>
-  <a href="https://github.com/samarthpharate" style="margin: 0 10px;">
+  <a href="https://github.com/samarthpharate" style="margin: 0 30px;">
     <img src="https://avatars.githubusercontent.com/samarthpharate" width="70px;" style="border-radius: 50%;" alt="Samarth Pharate"/>
   </a>
 
-  <a href="https://github.com/pradnyatavandkar25" style="margin: 0 10px;">
+  <a href="https://github.com/pradnyatavandkar25" style="margin: 0 30px;">
     <img src="https://avatars.githubusercontent.com/pradnyatavandkar25" width="70px;" style="border-radius:50%;" alt="pradnyatavandkar25"/>
   </a>
   <!-- Add more contributors in the same way -->
