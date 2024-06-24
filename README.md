@@ -12,10 +12,10 @@ Thanks goes to these wonderful people:
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/samarthpharate"><img src="https://avatars.githubusercontent.com/samarthpharate?v=4" width="100px;" alt=""/><br /><sub><b>Samarth Pharate</b></sub></a><br /><a href="#code-samarthpharate" title="Code">💻</a></td>
+    <td><a href="https://github.com/samarthpharate"><img src="https://avatars.githubusercontent.com/samarthpharate?v=4" width="100px;" alt=""/><br /><sub><b>Samarth Pharate</b></sub></a><br /><a href="#code-samarthpharate" title="Code">💻</a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/pradnyatavandkar25"><img src="https://avatars.githubusercontent.com/pradnyatavandkar25?v=4" width="100px;" alt=""/><br /><sub><b>Pradnya Tavandkar</b></sub></a><br /><a href="#code-pradnyatavandkar25" title="Code">💻</a></td>
+    <td><a href="https://github.com/pradnyatavandkar25"><img src="https://avatars.githubusercontent.com/pradnyatavandkar25?v=4" width="100px;" alt=""/><br /><sub><b>Pradnya Tavandkar</b></sub></a><br /><a href="#code-pradnyatavandkar25" title="Code">💻</a></td>
   </tr>
 </table>
 <!-- markdownlint-enable -->
