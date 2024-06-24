@@ -9,6 +9,7 @@ Recreated on the basis of existing information over web.
   <a href="https://github.com/samarthpharate">
     <img src="https://avatars.githubusercontent.com/samarthpharate" width="70px;" style="border-radius: 50%;" alt="Samarth Pharate"/>
   </a>
+<br>
   <a href="https://github.com/pradnyatavandkar25">
     <img src="https://avatars.githubusercontent.com/pradnyatavandkar25" width="70px;" style="border-radius:50%;" alt="pradnyatavandkar25"/>
   </a>
